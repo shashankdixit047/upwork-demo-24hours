@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.cursorSmoothCaretAnimation": true,
+    "liveServer.settings.port": 5501,
+    "favorites.sortDirection": "ASC"
+}
